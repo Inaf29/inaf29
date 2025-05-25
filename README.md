@@ -29,8 +29,8 @@
 
 ### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inaf29&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inaf29&show_icons=true&theme=onedark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaf29&layout=compact&theme=onedark"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=inaf29&show_icons=true&theme=onedark"></img>
 
 ---
 
