@@ -1,4 +1,3 @@
-<h1 align="center">Hi there, I'm Ilman Nafi'an 👋</h1>
 
 <p align="center">
   <img src="github-header-image.png" alt="Header banner" width="100%"/>
