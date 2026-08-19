@@ -44,11 +44,6 @@
 
 ---
 
-### 🛩️ Featured Project
-
-**Espyro — Fixed Wing UAV**
-A fixed-wing drone project focused on autonomous flight, custom flight-controller firmware, and ground station tooling. Includes flight log analysis (altitude, groundspeed, EKF/vibration health, RC link status) using Mission Planner to diagnose and tune flight behavior.
-> Add a link here once the repo is public, e.g. `[Espyro Flight Controller](https://github.com/inaf29/espyro)`
 
 <!--
 ### 📌 More Projects
